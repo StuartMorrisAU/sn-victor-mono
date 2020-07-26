@@ -1,20 +1,13 @@
 {
-  "identifier": "org.stuartmorrisau.sn-victor-mono",
-  "name": "SN Victor Mono",
-  "content_type": "SN|Theme",
-  "area": "themes",
-  "version": "1.0.1",
-  "description": "Replace all monospace and sans-serif fonts with Victor Mono.",
-  "url": "https://cdn.jsdelivr.net/gh/StuartMorrisAU/sn-victor-mono@v1.0.1/theme.css",
-  "download_url": "https://github.com/StuartMorrisAU/sn-victor-mono/archive/v1.0.1.zip",
-  "latest_url": "https://listed.to/p/vj6LKR3tus",
-  "marketing_url": "https://github.com/StuartMorrisAU/sn-victor-mono",
-  "layerable": true,
-  "sn": {
-    "main": "theme.css"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/StuartMorrisAU/sn-victor-mono.git"
+    "name": "sn-victor-mono",
+    "version": "1.0.1",
+    "main": "theme.css",
+    "sn": {
+      "main": "theme.css"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/StuartMorrisAU/sn-victor-mono.git"
+    }
   }
-}
+  

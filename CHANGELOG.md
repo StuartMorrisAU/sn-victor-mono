@@ -7,11 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.0.3] - 2020-07-27
+## [1.0.4] - 2020-07-27
 
 ### Fixed
 
 - Fixed CSS reference.
+- Fixed revision.
 
 ## [1.0.2] - 2020-07-26
 

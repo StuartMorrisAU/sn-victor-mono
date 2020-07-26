@@ -1,6 +1,6 @@
 {
     "name": "sn-victor-mono",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "main": "dist/theme.css",
     "sn": {
       "main": "dist/theme.css"

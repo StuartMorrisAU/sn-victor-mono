@@ -1,0 +1,70 @@
+@font-face {
+    font-family: "Victor Mono";
+    src: url("font/woff2/VictorMono-Regular.font/woff2") format("font/woff2"),
+        url("font/woff/VictorMono-Regular.font/woff") format("font/woff");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Victor Mono";
+    src: url("font/woff2/VictorMono-Italic.font/woff2") format("font/woff2"),
+        url("font/woff/VictorMono-Italic.font/woff") format("font/woff");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Victor Mono";
+    src: url("font/woff2/VictorMono-Bold.font/woff2") format("font/woff2"),
+        url("font/woff/VictorMono-Bold.font/woff") format("font/woff");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Victor Mono";
+    src: url("font/woff2/VictorMono-BoldItalic.font/woff2") format("font/woff2"),
+        url("font/woff/VictorMono-BoldItalic.font/woff") format("font/woff");
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+:root {
+    --sn-stylekit-monospace-font: 'Victor Mono', monospace;
+    --sn-stylekit-sans-serif-font: 'Victor Mono', sans-serif;
+}
+
+/* Plain Editor */
+#note-text-editor {
+    font-family: 'Victor Mono', monospace !important;
+}
+
+/* Bold Editor */
+#editor {
+    font-family: 'Victor Mono', monospace !important;
+}
+
+/* Markdown Minimalist, Markdown Pro (Edit) */
+.CodeMirror {
+    font-family: 'Victor Mono', monospace !important;
+}
+
+/* Markdown Pro (Preview) */
+.editor-preview-side {
+    font-family: 'Victor Mono', monospace !important;
+}
+
+/* Plus Editor */
+.note-editable {
+    font-family: 'Victor Mono', monospace !important;
+}
+
+/* Task Editor */
+div.task>textarea {
+    font-family: 'Victor Mono', monospace !important;
+}

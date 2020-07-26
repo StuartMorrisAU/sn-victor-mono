@@ -1,9 +1,9 @@
 {
     "name": "sn-victor-mono",
-    "version": "1.0.1",
-    "main": "theme.css",
+    "version": "1.0.2",
+    "main": "dist/theme.css",
     "sn": {
-      "main": "theme.css"
+      "main": "dist/theme.css"
     },
     "repository": {
       "type": "git",

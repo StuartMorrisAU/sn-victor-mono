@@ -7,7 +7,7 @@ metatype: json
   "name": "SN Victor Mono",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Replace all monospace and sans-serif fonts with Victor Mono.",
   "url": "https://cdn.jsdelivr.net/gh/StuartMorrisAU/sn-victor-mono@v1.0.2/dist/theme.min.css",
   "download_url": "https://github.com/StuartMorrisAU/sn-victor-mono/archive/v1.0.2.zip",

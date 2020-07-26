@@ -2,6 +2,8 @@
 
 SN Victor Mono replaces the default fonts in [Standard Notes](https://standardnotes.org/) with [Victor Mono](https://rubjo.github.io/victor-mono). It replaces all interface, monospace, and sans-serif fonts.
 
+![SN Victor Mono Screenshot](https://cdn.jsdelivr.net/gh/StuartMorrisAU/sn-victor-mono@v1.0.2/preview.png)
+
 ## Installation
 
 1. From the Standard Notes web or desktop app, select the _Extensions_ menu.
